@@ -95,6 +95,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+	- https://www.linkedin.com/in/sina-heidari-3a935412a/
+	- https://github.com/s1naheidari
 
 # Analytics
 analytics:
@@ -230,7 +232,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -238,7 +240,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-include-cache
 
 
