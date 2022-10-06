@@ -17,6 +17,46 @@
   @include breakpoint($x-large) {
     max-width: $max-width;
   }
+  
+  .float-parent-element { 
+    width: 100%; 
+} 
+.float-child-element { 
+    float: left; 
+    width: 50%; 
+} 
+.float-child-element-full { 
+  float: left; 
+  width: 100%; 
+} 
+.first-layer-left-big { 
+     
+  margin-left: 10%; 
+  
+} 
+.first-layer-right-small { 
+  margin-left: 50%; 
+}
+
+.first-layer-left { 
+     
+    margin-left: 10%; 
+    
+} 
+.first-layer-right { 
+    margin-left: 50%; 
+     
+}
+.full-width { 
+  margin-left: 10%; 
+}
+.not-full {
+  margin-left: 5%;
+}
+.tab4 {
+  tab-size: 4;
+}
+
 }
 
 body {
