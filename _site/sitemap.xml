@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:5000/_pages/cv/</loc>
+<loc>http://localhost:4000/_pages/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:5000/cv/</loc>
+<loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:5000/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:5000/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:5000/cv.pdf</loc>
+<loc>http://localhost:4000/cv.pdf</loc>
 <lastmod>2022-10-04T18:00:01+03:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:5000/googlee4ba1b51c62afc88.html</loc>
+<loc>http://localhost:4000/googlee4ba1b51c62afc88.html</loc>
 <lastmod>2022-10-06T01:55:48+03:30</lastmod>
 </url>
 </urlset>

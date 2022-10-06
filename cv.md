@@ -204,6 +204,6 @@ Based on Kubernetes
 - Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/m5-forecasting-accuracy">the M5 Forecasting - Accuracy Challenge</a> <a href="https://github.com/S1naHeidari/M5-Forcasting">LINK</a>
 - Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview">the Abstraction and Reasoning Challenge</a> <a href="https://github.com/S1naHeidari/abstraction_and_reasoning">LINK</a>
 - Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview">the Indoor Location & Navigation Challenge</a> <a href="https://github.com/S1naHeidari/Indoor_location_navigation">LINK</a>
-- Evaluating the Performance of <a style="color: black" href="https://ieeexplore.ieee.org/document/4399095">the Hysteretic Q-Learning</a> in the Ball-Balancing Task <a href="https://github.com/S1naHeidari/Indoor_location_navigation" >LINK</a>
+- Evaluating the Performance of <a style="color: black" href="https://ieeexplore.ieee.org/document/4399095">the Hysteretic Q-Learning</a> in the Ball-Balancing Task <a href="https://github.com/S1naHeidari/hysteretic_Qlearning" >LINK</a>
 
 
