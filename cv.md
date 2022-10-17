@@ -12,29 +12,6 @@ comments: false
 ### CV PDF [link](../cv.pdf)
 ---
 ### Education
-<!--undergraduate-->
-<div class="float-parent-element">
-  <div class="float-child-element">
-    <div class="first-layer-left">University of Kurdistan</div>
-  </div>
-  <div class="float-child-element">
-    <div class="first-layer-right">Sanandaj, Iran</div>
-  </div>
-</div>
-<div class="float-parent-element">
-  <div class="float-child-element">
-    <div class="first-layer-left"><b>B.Sc. in Computer Software Engineering</b></div>
-  </div>
-  <div class="float-child-element">
-    <div class="first-layer-right">2016-2021</div>
-  </div>
-  <div class="float-child-element-full">
-	<div class= "full-width">Focused on Data Science, Linux Opertaing System, Virtualization and System Programming.</div>
-	<div class= "full-width"><i>GPA (last two years): </i>3.57</div>
-	<div class= "full-width"><i>Overall GPA: </i>15.79/20</div>
-	<div class= "full-width"><br></div>
-  </div>
-</div>
 <!--M.Sc.-->
 <div class="float-parent-element">
   <div class="float-child-element">
@@ -60,6 +37,30 @@ comments: false
   </div>
   
 </div>
+<!--undergraduate-->
+<div class="float-parent-element">
+  <div class="float-child-element">
+    <div class="first-layer-left">University of Kurdistan</div>
+  </div>
+  <div class="float-child-element">
+    <div class="first-layer-right">Sanandaj, Iran</div>
+  </div>
+</div>
+<div class="float-parent-element">
+  <div class="float-child-element">
+    <div class="first-layer-left"><b>B.Sc. in Computer Software Engineering</b></div>
+  </div>
+  <div class="float-child-element">
+    <div class="first-layer-right">2016-2021</div>
+  </div>
+  <div class="float-child-element-full">
+	<div class= "full-width">Focused on Data Science, Linux Opertaing System, Virtualization and System Programming.</div>
+	<div class= "full-width"><i>GPA (last two years): </i>3.57</div>
+	<div class= "full-width"><i>Overall GPA: </i>15.79/20</div>
+	<div class= "full-width"><br></div>
+  </div>
+</div>
+
 <hr style="width:100%;text-align:left;margin-left:0">
 
 ### Research Interests
