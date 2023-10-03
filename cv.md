@@ -29,8 +29,7 @@ comments: false
     <div class="first-layer-right">2021-present</div>
   </div>
   <div class="float-child-element-full">
-	<div class= "full-width">Focused on DevOps, and Resource Management in Serverless Computing Environments</div>
-	<div class= "full-width"><i>GPA: </i>18.33 (out of 20); 4 (out of 4 using WES instruction)</div>
+	<div class= "full-width"><i>GPA: </i>4 (out of 4 using WES instruction)</div>
 	<div class= "full-width"><i>Rank: </i>1st in class</div>
 	<div class= "full-width"><i>Graduation: </i>April 2023 (anticipated)</div>
 	<div class= "full-width"><br></div>
@@ -54,7 +53,6 @@ comments: false
     <div class="first-layer-right">2016-2021</div>
   </div>
   <div class="float-child-element-full">
-	<div class= "full-width">Focused on Data Science, Linux Opertaing System, Virtualization and System Programming.</div>
 	<div class= "full-width"><i>GPA (last two years): </i>3.57</div>
 	<div class= "full-width"><i>Overall GPA: </i>15.79/20</div>
 	<div class= "full-width"><br></div>
@@ -64,83 +62,69 @@ comments: false
 <hr style="width:100%;text-align:left;margin-left:0">
 
 ### Research Interests
-- Serverless Computing
-- Cloud Computing
-- Fog/Edge Computing
-- Distributed Systems
+- Distributed Computing
+- Cloud/Edge Computing
 - Internet of Things
-- Machine Learning
+- High-performance Computing
 
 ---
 
+### Publications
+- Heterogeneity-aware Load Balancing in Serverless Computing Environments 2023
+  - **Authors:** Sina Heidari, Sadoon Azizi
+  - **Conference:** The 7th International Conference on Internet of Things and Its Applications
+  - **Status:** Accepted
+  - **Link:** [https://iot2023.ui.ac.ir/en/](https://iot2023.ui.ac.ir/en/)
+
+<hr style="width:100%;text-align:left;margin-left:0;">
+
 ### Work in Progress
-<div class="float-parent-element">
-  <div class="float-child-element-full">
-	<div class= "full-width">Sina Heidari, Sadoon Azizi. "QoS-aware and Energy-aware Resource Scheduling
-	in Serverless Computing," 27th International Computer Conference, Computer Society of Iran,
-	 <a href="http://csi.org.ir/csicc2022/en/">LINK</a></div>
-	<div class= "full-width"><br></div>
-  </div>
-</div>
+- Deep Reinforcement Learning for Energy-efficient Resource Scheduling in Multi-tenant and Heterogeneous Serverless Computing Environments
+
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
 ### Research Experience
 
-<div class="float-parent-element">
-  <div class="float-child-element">
-    <div class="first-layer-left">University of Kurdistan</div>
-  </div>
-  <div class="float-child-element">
-    <div class="first-layer-right">Sanandaj, Iran</div>
-  </div>
-</div>
-<div class="float-parent-element">
-  <div class="float-child-element">
-    <div class="first-layer-left"><b>Data Science Lab Member</b></div>
-  </div>
-  <div class="float-child-element">
-    <div class="first-layer-right">2018-2021</div>
-  </div>
-  <div class="float-child-element-full">
-	<div class= "full-width">Project: Data Exploratory Analysis (DEA) and Solution for Six Kaggle Challenges.
-(Recommender Systems, Tweet Sentiment Extraction, Toxic Comment Classification,
-M5 Time Series Forcasting, Abstraction and Reasoning, Indoor Location and Navigation)</div>
-	<div class= "full-width"><b>Supervisor: </b>Dr. Parham Moradi</div>
-	
-  </div>
+#### Graduate Research
+- **Distributed Computing Systems Research Laboratory (DCS Lab)**  
+  *2020 – present*  
+  - **Supervisors:** Dr. Sadoon Azizi, Dr. Majid Meghdadi  
+  - **Broad Research Area:** Distributed Computing, Cloud/Edge Computing  
+  - **Specific Research Focus:** Autonomous resource management in serverless computing environments  
+  - **Additional Research Areas:** Heterogeneous computing in distributed and multi-tenant systems  
+  - **Thesis Title:** QoS-aware and Energy-efficient Resource Scheduling in Serverless Computing Environments  
+  - **Thesis Approach:** Employed Deep Reinforcement Learning (DRL) algorithms to develop autonomous agents capable of making resource scheduling decisions  
+  - **Technical Skills:** Kubernetes, Prometheus, Tensorflow, PyTorch
 
-<div class="float-child-element">
-	<div class="first-layer-left"><b>Internet of Things Lab Member</b></div>
-</div>
-<div class="float-child-element">
-    <div class="first-layer-right">2020-present</div>
-</div>
-<div class="float-child-element-full">
-	<div class= "full-width">Focused on Latency-Aware Virtual Machine and Container Placement in Cloud/Fog  Computing Environments
-Based on Kubernetes
-	</div>
-	<div class= "full-width"><b>Supervisor: </b>Dr. Sadoon Azizi</div>
-	<div class= "full-width"><br></div>
-</div>
-</div>
+#### Undergraduate Research
+- **Data Science Laboratory**  
+  *2018 – 2020*  
+  - **Supervisor:** Dr. Parham Moradi  
+  - **Broad Research Area:** Data Science, Machine Learning  
+  - **Specific Research Focus:** Recommender Systems, Indoor Positioning Systems, Natural Language Processing (NLP)  
+  - **Project:** Data exploratory analysis (DEA) and solution for six Kaggle challenges.
+    (Recommender Systems, Tweet Sentiment Extraction, Toxic Comment Classification,
+    M5 Time Series Forecasting, Abstraction and Reasoning, Indoor Location and Navigation)  
+  - **Technical Skills:** Python, Pandas, Scikit-learn
 
-<div class="float-parent-element">
-  <div class="float-child-element">
-    <div class="first-layer-left"><b>Master’s Thesis, Department of Electrical and Computer Engineering</b></div>
-  </div>
-  <div class="float-child-element">
-    <div class="first-layer-right">2021-present</div>
-  </div>
-  
-  <div class="float-child-element-full">
-	<div class= "full-width">Title: Deep Reinforcement Learning for QoS-aware and Energy-aware Resource Scheduling in Serverless Computing
-	</div>
-	<div class= "full-width"><b>Supervisor: </b>Dr. Majid Meghdadi</div>
-	<div class= "full-width"><b>Co-supervisor: </b>Dr. Sadoon Azizi</div>
-	<div class= "full-width"><br></div>
-  </div>
-</div>
+
+
+<hr style="width:100%;text-align:left;margin-left:0;">
+
+### Teaching Experience
+
+**University of Kurdistan**
+
+- **Teaching Assistant (Summer 2017 & Fall 2017)**
+  - Course Title: Fundamentals of Computer and Programming
+  - Responsibilities: Holding classes weekly and marking assignments.
+  - Professor: Dr. Sadoon Azizi
+
+- **Teaching Assistant (Winter 2018)**
+  - Course Title: Advanced Programming
+  - Responsibilities: Holding classes weekly and marking assignments.
+  - Professor: Dr. Rojiar Pir Mohammadiani
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
@@ -162,7 +146,7 @@ Based on Kubernetes
 
 <div class="float-parent-element">
   <div class="float-child-element">
-    <div class="first-layer-left">GRE: registered for November 18, 2022</div>
+    <div class="first-layer-left">GRE: registered for November 2023</div>
 	<div class= "full-width"><br></div>
   </div>
   <div class="float-child-element">
@@ -173,37 +157,57 @@ Based on Kubernetes
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
-### Skills
-- Professional C and C++ Programming
-- Professional Python Programming
-- Kubernetes Adminstration
-- GNU/Linux Adminstration
-- Virtualization/Cloud: Docker, AWS, Virtualbox, Vagrant, Xen, Ansible, Prometheus, CloudSim and EC2
-- Data Science & Machine Learning: Scikit-learn, Pandas, NumPy, PyTorch, Selenium and NLTK
-- Programming: Java, Golang, Java Script, Fortran, Bash and Git
-- Web Backend Development: Flask, Django and Laravel
+### Technical Skills
+
+- **Programming Languages:** Python, C/C++, Java, C#
+- **Operating Systems:** GNU/Linux (Arch Linux, Manjaro, Ubuntu, Debian, CentOS)
+- **Virtualization/Cloud:** Kubernetes, Xen, Docker, Virtualbox, Vagrant, Ansible, Prometheus
+- **Data Science & Machine Learning:** Scikit-learn, Pandas, PyTorch, Tensorflow
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
 ### Awards and Honors
-- Granted, National University Tuition Waiver (including partly necessary expenses)
-- Ranked 7th, among all 135 M.Sc. engineering students in the University of Zanjan
+- **2023:** Master’s program valedictorian, top 10 among entering engineering students
+- **2016:** Granted, National University Tuition Waiver (including partly necessary expenses)
+
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
 ### Academic Projects
 
-- Software Engineering Project: Ticket Management System <a href="https://github.com/S1naHeidari/ticket-management-system">LINK</a>
-- Information Retrieval System Using Inverted Index and TF-IDF <a href="https://github.com/S1naHeidari/nlp_invertedIndex_tfidf">LINK</a>
-- An API Server Developed Using Flask and Tested with 100% Test Coverage <a href="https://github.com/S1naHeidari/Flask_API_Server">LINK</a>
-- Vagrant and Ansible Scripts to Create a Kubernetes Cluster on Virtual Machines <a href="https://github.com/S1naHeidari/Kubernetes_Vagrant_Ansible">LINK</a>
-- A Persian Poem Search Engine Developed in Java Using Ganjoor Dataset <a href="https://github.com/S1naHeidari/Ganjoor_Search_Engine">LINK</a>
-- Popularity-based and Model-based Collaborative Filtering to Recommend Products to Users <a href="https://github.com/S1naHeidari/Recommender_Systems">LINK</a>
-- Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/tweet-sentiment-extraction/overview">the Tweet Sentiment Extraction Challenge</a> <a href="https://github.com/S1naHeidari/tweet_sentiment_extraction">LINK</a>
-- Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview">the Toxic Comment Classification Challenge</a> <a href="https://github.com/S1naHeidari/toxic_comment_classification">LINK</a>
-- Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/m5-forecasting-accuracy">the M5 Forecasting - Accuracy Challenge</a> <a href="https://github.com/S1naHeidari/M5-Forcasting">LINK</a>
-- Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview">the Abstraction and Reasoning Challenge</a> <a href="https://github.com/S1naHeidari/abstraction_and_reasoning">LINK</a>
-- Data Exploratory Analysis and Solution for <a style="color: black" href="https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview">the Indoor Location & Navigation Challenge</a> <a href="https://github.com/S1naHeidari/Indoor_location_navigation">LINK</a>
-- Evaluating the Performance of <a style="color: black" href="https://ieeexplore.ieee.org/document/4399095">the Hysteretic Q-Learning</a> in the Ball-Balancing Task <a href="https://github.com/S1naHeidari/hysteretic_Qlearning" >LINK</a>
+- Development of a Ticket Management System to streamline customer support and issue tracking (Course: Software Engineering)
+- Information Retrieval System Using Inverted Index and TF-IDF (Course: Information Retrieval)
+- Setting up production-ready Kubernetes clusters using Vagrant and Ansible as Infrastructure as Code (IaC) tools
+- Adaptation of DQN (Deep Q-Network) and its variants to address scheduling and resource allocation challenges in serverless computing environments
+- Development of custom Kubernetes schedulers and load-balancers for the purpose of evaluating the performance of various scheduling and load-balancing policies
+
+<hr style="width:100%;text-align:left;margin-left:0;">
+
+### Related Courses
+
+| Course Name               | Grade |
+|---------------------------|-------|
+| Advanced Computer Networks| 19/20 |
+| Advanced Operating Systems| 20/20 |
+| Internet of Things        | 19/20 |
+| Programming Languages     | 18.64/20 |
+| Software Engineering      | 18.65/20 |
+| Artificial Intelligence   | 17/20  |
+
+<hr style="width:100%;text-align:left;margin-left:0;">
+
+### References
+
+- [Dr. Sadoon Azizi](https://research.uok.ac.ir/sazizi/en/)
+  - Email: s.azizi@uok.ac.ir
+
+- [Dr. Parham Moradi](https://research.uok.ac.ir/pmoradi/en/)
+  - Email: p.moradi@uok.ac.ir
+
+- [Dr. Majid Meghdadi](https://www.znu.ac.ir/members/meghdadi-majid/en)
+  - Email: meghdadi@znu.ac.ir
+
+- [Dr. Rojiar Pir Mohammadiani](https://research.uok.ac.ir/rpirmohammadiani/en/)
+  - Email: r.pirmohamadiani@uok.ac.ir
 
 

@@ -3,11 +3,19 @@ layout: archive
 ---
 
 {{ content }}
-I am a graduate student at the University of Zanjan. I am collaborating with Dr. Sadoon Azizi at the University of Kurdistan. 
-My primary focus is on the function placement problem in serverless computing environments. I intend to use reinforcement and deep learning methods for scheduling and resource management problems in the cloud. 
+<head>
+  <style>
+    .justified-text {
+      text-align: justify;
+    }
+  </style>
+</head>
+<body>
+  <p class="justified-text">
+I'm a graduate student at the University of Zanjan, collaborating with Dr. Sadoon Azizi at the University of Kurdistan. My research interests span Distributed Systems, Cloud/Edge Computing, Internet of Things, and High-performance Computing. My primary focus lies in autonomous resource management within serverless computing environments, where I've gained hands-on expertise with cloud-native tools like Kubernetes and Prometheus.
+</p>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
+<h3 class="archive__subtitle">{{ "Recent News" | default: "Recent News" }}</h3>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
@@ -22,3 +30,8 @@ My primary focus is on the function placement problem in serverless computing en
 </div>
 
 {% include paginator.html %}
+
+<p class="justified-text" style="margin: 5px 0;">
+  Our paper titled "Heterogeneity-aware Load Balancing in Serverless Computing Environments 2023" authored by Sina Heidari and Sadoon Azizi has been accepted for presentation at <a href="https://iot2023.ui.ac.ir/en/">The 7th International Conference on Internet of Things and Its Applications</a>.
+</p>
+
