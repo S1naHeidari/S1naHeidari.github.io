@@ -198,16 +198,16 @@ comments: false
 
 ### References
 
-- [Dr. Sadoon Azizi](https://research.uok.ac.ir/sazizi/en/)
+- [Dr. Sadoon Azizi](https://research.uok.ac.ir/~sazizi/en/)
   - Email: s.azizi@uok.ac.ir
 
-- [Dr. Parham Moradi](https://research.uok.ac.ir/pmoradi/en/)
+- [Dr. Parham Moradi](https://research.uok.ac.ir/~pmoradi/en/)
   - Email: p.moradi@uok.ac.ir
 
 - [Dr. Majid Meghdadi](https://www.znu.ac.ir/members/meghdadi-majid/en)
   - Email: meghdadi@znu.ac.ir
 
-- [Dr. Rojiar Pir Mohammadiani](https://research.uok.ac.ir/rpirmohammadiani/en/)
+- [Dr. Rojiar Pir Mohammadiani](https://research.uok.ac.ir/~rpirmohammadiani/en/)
   - Email: r.pirmohamadiani@uok.ac.ir
 
 
