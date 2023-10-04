@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sina Heidari"
+title                    : "Sina Heidari - Curriculum Vitae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sina Heidari"
+name                     : "Sina Heidari - Curriculum Vitae"
 description              : "Sina Heidari is a graduate computer science student in the University of Zanjan. Linkedin: https://www.linkedin.com/in/sina-heidari-3a935412a/
  Github: https://github.com/s1naheidari"
 url                      : "https://s1naheidari.github.io"
@@ -28,7 +28,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Sina Heidari"
+masthead_title           : "Sina Heidari - Curriculum Vitae"
 # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,7 +109,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "M.Sc."
+  name             : "Sina Heidari, M.Sc."
   avatar           : "/assets/images/sina.jpg"
   bio              : "University of Zanjan"
   location         : "Iran"
