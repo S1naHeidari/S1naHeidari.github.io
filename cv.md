@@ -73,8 +73,7 @@ comments: false
 - Heterogeneity-aware Load Balancing in Serverless Computing Environments 2023
   - **Authors:** Sina Heidari, Sadoon Azizi
   - **Conference:** The 7th International Conference on Internet of Things and Its Applications
-  - **Status:** Accepted
-  - **Link:** [https://iot2023.ui.ac.ir/en/](https://iot2023.ui.ac.ir/en/)
+  - **Link:** [https://ieeexplore.ieee.org/document/10365354](https://ieeexplore.ieee.org/document/10365354)
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 

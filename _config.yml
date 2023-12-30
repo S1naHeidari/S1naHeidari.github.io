@@ -130,9 +130,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/s1naheidari
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fa fa-google"
+      url: "https://scholar.google.com/citations?user=-NFnSYgAAAAJ&hl=en&oi=ao"
+    
 
 # Site Footer
 footer:
