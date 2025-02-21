@@ -109,11 +109,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sina Heidari, M.Sc."
+  name             : "Sina Heidari"
   avatar           : "/assets/images/sina.jpg"
-  bio              : "University of Zanjan"
-  location         : "Iran"
-  email            : sina1997heidari@gmail.com
+  bio              : "Virginia Tech"
+  location         : "United States"
+  email            : sinaheidari@vt.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
