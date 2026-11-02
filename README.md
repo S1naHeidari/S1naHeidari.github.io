@@ -18,4 +18,4 @@ Pushing to `main` triggers the GitHub Actions workflow (`.github/workflows/deplo
 
 - Page content lives in `src/pages/index.astro` (bio, research cards, publications).
 - Portrait images: `src/assets/portrait*.jpg`; social preview and favicon: `public/portrait-og.jpg`, `public/favicon.jpg`.
-- CV PDF served from the root: `cv.pdf` (source maintained on Overleaf).
+- CV PDF served from `public/cv.pdf` (source maintained on Overleaf).
