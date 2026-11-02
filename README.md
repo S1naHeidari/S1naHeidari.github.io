@@ -1,1 +1,1 @@
-Sina's personal website
+Sina Heidari — personal website
